@@ -13,5 +13,5 @@ Windows x64
 ### Dependence
 .NET Framework 4.7.2
 
-## Loaal
+## Local
 * ko-KR
