@@ -1,7 +1,7 @@
 # TS SET
 Truck Simulator Save Editor Tool
 
-# TS.SE.Tool-ko-KR
+# TS-SE-Tool-ko-KR
 TS.SE.Tool ko-KR
 
 ## Description
