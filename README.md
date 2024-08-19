@@ -11,4 +11,4 @@ Windows x64
 .NET Framework 4.7.2
 
 ## Local
-* ko-KR
+* ...
